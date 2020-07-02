@@ -1,2 +1,2 @@
 # FPS-With-Friends
-Me and my friends first FPS Game
+Daniel, Griffin and Max's first ever Video game as collaborators.
