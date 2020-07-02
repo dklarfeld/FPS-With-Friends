@@ -1,2 +1,2 @@
-# FPS-WithFriends
-My friends and I's first FPS Game
+# FPS-With-Friends
+Me and my friends first FPS Game
